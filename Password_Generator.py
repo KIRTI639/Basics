@@ -53,4 +53,8 @@ password = ""
 for char in password_list:
   password += char
 
+<<<<<<< HEAD
 print(f"Your Password 😓: {password}")
+=======
+print(f"Your Password 🙄: {password}")
+>>>>>>> Test2
