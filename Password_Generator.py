@@ -5,7 +5,7 @@ symbols = ["!","@","#","$","%","^","&","*","+","-","(",")"]
 print("Welcome to the Password Generator...")
 no_letters = int(input("How many letters would you like in your Password?\n"))
 no_numbers = int(input("How many numbers would you like in your Password?\n"))
-no_symbols = int(input("How many sysmbols would you like in your Password?\n"))
+no_symbols = int(input("How many symbols would you like in your Password?\n"))
 
 
 # password = ""
@@ -53,4 +53,8 @@ password = ""
 for char in password_list:
   password += char
 
-print(f"Your Password: {password}")
+<<<<<<< HEAD
+print(f"Your Password 😓: {password}")
+=======
+print(f"Your Password 🙄: {password}")
+>>>>>>> Test2
