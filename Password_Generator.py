@@ -53,4 +53,4 @@ password = ""
 for char in password_list:
   password += char
 
-print(f"Your password: {password}")
+print(f"Your Password: {password}")
